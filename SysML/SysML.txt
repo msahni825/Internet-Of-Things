@@ -1,0 +1,2 @@
+The Systems Modeling Language is a general-purpose modeling language for systems engineering applications. 
+It supports the specification, analysis, design, verification and validation of a broad range of systems and systems-of-systems
