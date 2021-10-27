@@ -1,2 +1,25 @@
 The Systems Modeling Language is a general-purpose modeling language for systems engineering applications. 
-It supports the specification, analysis, design, verification and validation of a broad range of systems and systems-of-systems
+It supports the specification, analysis, design, verification and validation of a broad range of systems and systems-of-systems.
+
+SysML 
+
+1. SysML offers improvements over UML, which tends to be software-centric. SysML semantics more flexible and expressive.
+
+2. MBS, Reduced errors and ambiguity. More complete representation.Enhances knowledge capture
+
+3. SysML reduces UML's software-centric restrictions and adds two new diagram types, requirement and parametric diagrams.
+
+4. can be used for requirements engineering. SysML is a dialect of UML 2, which extends the Unified Modeling Language (UML) standard for software-intensive applications so that it can be successfully 
+applied to Systems Engineering applications.
+
+5. SysML is able to model a wide range of systems, which may include hardware, software, information, processes, personnel, and facilities.
+
+6. Since SysML removes many of UML's software-centric constructs, the overall language is smaller both in diagram types and total constructs.
+
+7. SysML is an enabling technology for Model-Based Systems Engineering (MBSE). Use cases in UML captures functional and not non-functional requirements.
+
+8. SysML: visual modelling language, that provides semantics(meaning). Not a tool/methodology.
+
+9. Used to mprove the precision and efficiency of your communications with fellow Systems Engineers and other system and business stakeholders 
+(e.g., Clients, Software Engineers, Electrical Engineers, Mechanical Engineers), then you should consider using a system architecture modeling language 
+
